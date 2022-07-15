@@ -1,0 +1,51 @@
+ .top-heading{
+    margin-top: 4rem!important;
+ }
+.Mynav{
+    box-shadow: -1px 20px 82px -29px rgba(0,0,0,0.36);
+}
+.nav-link{
+    
+    padding: 0rem .5rem !important;
+     
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.nav-link:first-child{
+    color: black;
+}
+.pricing{
+    margin-right: 25px;
+}
+
+/* #footer {
+    background-color: #212529 !important;
+    color: #C7C8C9;
+    position: relative;
+    bottom: 0px;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+} */
+ 
+ 
+
+@media screen and (max-width: 1200px) {
+    #mycards {
+        width: 18rem;
+        margin: 20px 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #mycards {
+        width: 24rem;
+        margin: 20px 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Big12sports.com"
+      },
+      "author": null,
+      "title": "Big 12 Extends Membership Invitations - Big12Sports.com",
+      "description": "The Big 12 Conference Board of Directors this morning voted to extend membership invitations to Brigham Young University, the University of Central Florida, the University of Cincinnati, and the University of Houston to join the Conference.",
+      "url": "https://big12sports.com/news/2021/9/10/conference-big-12-extends-membership-invitations.aspx",
+      "urlToImage": "http://big12sports.com/images/2019/9/12/Big_12_Photo.jpg?preset=large.storyimage",
+      "publishedAt": "2021-09-10T14:09:31Z",
+      "content": "Conference9/10/2021 8:47:38 AM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Mark DeCambre, , Barbara Kollmeyer",
+      "title": "Dow, S&P 500 rise at the open, as stock market attempts to halt losing skid - MarketWatch",
+      "description": "The Dow industrials turn lower and the broader stock market struggles to end a series of losses on Friday, as investors weigh COVID-19 vaccine mandates...",
+      "url": "https://www.marketwatch.com/story/dow-s-p-500-set-to-break-string-of-losses-with-producer-prices-on-deck-11631266832",
+      "urlToImage": "https://images.mktw.net/im-339328/social",
+      "publishedAt": "2021-09-10T13:52:00Z",
+      "content": "The Dow industrials turned lower and the broader stock market struggled to end a series of losses on Friday, as investors weighed COVID-19 vaccine mandates announced by President Joe Biden to fight t… [+5830 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Daniel Dale, CNN",
+      "title": "Republicans are laying the groundwork to lie that the California recall was stolen - CNN",
+      "description": "Polls suggest California voters are poised to defeat an effort to recall the state's Democratic governor, Gavin Newsom.",
+      "url": "https://www.cnn.com/2021/09/10/politics/fact-check-republican-claims-recall-rigged-stolen/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210909141954-03-larry-elder-super-tease.jpg",
+      "publishedAt": "2021-09-10T13:38:00Z",
+      "content": "Washington (CNN)Polls suggest California voters are poised to defeat an effort to recall the state's Democratic governor, Gavin Newsom. \r\nThe polls could be wrong or change fast. At present, though, … [+3770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Mike Reiss",
+      "title": "Cam Newton shares surprise at New England Patriots release, didn't think Mac Jones would be comfortable with him as backup - ESPN",
+      "description": "Free-agent quarterback Cam Newton said he didn't see his release by the Patriots coming and noting that he thought Mac Jones \"would have been uncomfortable\" with Newton as his backup.",
+      "url": "https://www.espn.com/nfl/story/_/id/32182159/cam-newton-shares-surprise-new-england-patriots-release-think-mac-jones-comfortable-backup",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0831%2Fr902858_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-09-10T13:16:56Z",
+      "content": "Free-agent quarterback Cam Newton said he didn't see his release from the New England Patriots coming in his first remarks since the team cut him 10 days ago.\r\n\"Did it catch me by surprise being rele… [+4615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lauren Thomas",
+      "title": "Lower Manhattan turned into a 24/7 community after 9/11. Midtown NYC could heed this lesson post-pandemic. - CNBC",
+      "description": "The residential population in downtown NYC has more than doubled since the 9/11 attacks. Real estate developers say the pandemic won't derail that progress.",
+      "url": "https://www.cnbc.com/2021/09/10/how-lower-manhattan-turned-into-a-24/7-community-after-9/11-attacks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106937976-1631015500082-gettyimages-1337337287-dscf8979_2021083080056961.jpeg?v=1631016080",
+      "publishedAt": "2021-09-10T13:03:57Z",
+      "content": "People walk near the sight of Ground Zero and the Freedom Tower on the day that the United States officially ended its participation in the war in Afghanistan on August 30, 2021 in New York City.\r\nJa… [+14357 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "TCL's first foldable phone gets Samsung'ed out of existence - CNET",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T0toTUtWSlZyNmvSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-09-10T13:00:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Paul Wiseman",
+      "title": "US producer prices jump an unprecedented 8.3% in August - Associated Press",
+      "description": "WASHINGTON (AP) — Inflation at the wholesale level climbed 8.3% last month from August 2020, the biggest annual gain since the Labor Department started calculating the 12-month number in 2010. The Labor Department reported Friday that its producer price index…",
+      "url": "https://apnews.com/article/business-economy-prices-inflation-producer-prices-fe20d58f22a9780ec188a85a4a88cff0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/76a55e03687c435a9c13800fc1656527/3000.jpeg",
+      "publishedAt": "2021-09-10T12:57:22Z",
+      "content": "WASHINGTON (AP) Inflation at the wholesale level climbed 8.3% last month from August 2020, the biggest annual gain since the Labor Department started calculating the 12-month number in 2010.\r\nThe Lab… [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Allyson Chiu",
+      "title": "What is ivermectin, and where did people get the idea it can treat covid? - The Washington Post",
+      "description": "Ivermectin, an anti-parasitic medicine for both humans and animals, is being promoted as a covid treatment despite a lack of evidence.",
+      "url": "https://www.washingtonpost.com/lifestyle/2021/09/10/ivermectin-covid-humans/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPAYQWAL3EI6ZJ6IMG5XWO7WFA.jpg&w=1440",
+      "publishedAt": "2021-09-10T12:56:15Z",
+      "content": "Doctors dismayed by patients who fear coronavirus vaccines but clamor for unproven ivermectin\r\nInterest in ivermectin has surged during this summers rapid rise in coronavirus infections fueled by the… [+1091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Avery Thompson",
+      "title": "Saint West, 5, Breaks His Arm & Mom Kim Kardashian Is Devastated: ‘I’m Not OK’ - HollywoodLife",
+      "description": "Kim Kardashian revealed that her son, Saint West, has broken his arm 'in a few places.' Kim admitted she 'cried' as she dealt with her child's injury.",
+      "url": "https://hollywoodlife.com/2021/09/10/saint-west-broken-arm-kim-kardashian-reaction-photos/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2021/09/kim-kardashian-saint-west-broke-arm-ftr.jpg",
+      "publishedAt": "2021-09-10T12:39:17Z",
+      "content": "Kim Kardashian revealed that her son, Saint West, has broken his arm ‘in a few places.’ Kim admitted she ‘cried’ as she dealt with her child’s injury.\r\nSaint West, 5, suffered an unfortunate injury, … [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kareem Khadder and Mostafa Salem, CNN",
+      "title": "A second Qatar Airways passenger flight has arrived in Kabul - CNN",
+      "description": "A second Qatar Airways passenger flight arrived in Kabul airport on Friday, Qatari-owned Al Jazeera Arabic television showed.",
+      "url": "https://www.cnn.com/2021/09/10/asia/second-qatar-airways-flight-kabul-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210910121738-01-afghanistan-0910-kabul-airport-restricted-super-tease.jpg",
+      "publishedAt": "2021-09-10T12:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Elliot Hannon",
+      "title": "Republicans Lose Their Minds Over Biden’s Employer Vaccine Mandate - Slate",
+      "description": "Republicans are talking ’bout freedom again.",
+      "url": "https://slate.com/news-and-politics/2021/09/republicans-ballistic-biden-employer-covid-vaccine-mandate.html",
+      "urlToImage": "https://compote.slate.com/images/87c56c9e-ef1c-4f9e-a145-6697ec17d1ce.jpeg?width=780&height=520&rect=3000x2000&offset=0x0",
+      "publishedAt": "2021-09-10T12:06:00Z",
+      "content": "President Joe Biden informed the country Thursday that the administration was about to get far more aggressive in combating the continued surge in coronavirus cases, hospitalizations, and deaths, all… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Bucs' Chris Godwin appears to get away with pass interference on game-winning drive: 'Bailed out again' - Fox News",
+      "description": "Tom Brady led the Tampa Bay Buccaneers on a vintage game-winning drive against the Dallas Cowboys, which ended in a field goal that gave the team the 31-29 win at the end.",
+      "url": "https://www.foxnews.com/sports/bucs-chris-godwin-pass-interference-cowboys",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Chris-Godwin.jpg",
+      "publishedAt": "2021-09-10T11:59:09Z",
+      "content": "Tom Brady led the Tampa Bay Buccaneers on a vintage game-winning drive against the Dallas Cowboys, which ended in a field goal that gave the team the 31-29 win at the end.\r\nThere was one play on the … [+1321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build - Phoronix",
+      "description": null,
+      "url": "https://www.phoronix.com/scan.php?page=article&item=windows-11-september&num=1",
+      "urlToImage": null,
+      "publishedAt": "2021-09-10T11:57:07Z",
+      "content": "With less than one month out from the official release of Microsoft Windows 11, I was curious to run some fresh benchmarks of the latest Windows 11 Insider Preview build against Windows 10 21H1 to se… [+1033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Fortnite video chat app Houseparty to close - BBC News",
+      "description": "The developers of the video chat app say they can no longer give it \"the attention it deserves\".",
+      "url": "https://www.bbc.com/news/technology-58516156",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/699F/production/_120493072_epic_games.jpg",
+      "publishedAt": "2021-09-10T11:43:23Z",
+      "content": "Houseparty, the video-calling app owned by Fortnite-maker Epic Games, will close down in October.\r\nFirst launched in 2016, the app was acquired by Epic in 2019 as part of a multi-million dollar deal.… [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STLtoday.com"
+      },
+      "author": "From staff reports",
+      "title": "Illinois State Police: Three people in custody after 7 shot in East St. Louis - STLtoday.com",
+      "description": "Officers made the arrests about 2:30 a.m. Friday in the basement of a partly demolished building, about a block from the crime scene.",
+      "url": "https://www.stltoday.com/news/local/crime-and-courts/illinois-state-police-three-people-in-custody-after-7-shot-in-east-st-louis/article_5e01bb2c-fb02-5e9d-a6ba-fc842903d8a9.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/e0/5e01bb2c-fb02-5e9d-a6ba-fc842903d8a9/613ad13a5782a.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+      "publishedAt": "2021-09-10T11:30:00Z",
+      "content": "St. Clair County sheriff's deputies and MetroLink personnel gather near the MetroLink train tracks close to an SUV that collided with a train after a shooting in East St. Louis on Thursday, September… [+1655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Stephanie Pappas",
+      "title": "Spectacular valleys and cliffs hidden beneath the North Sea - Livescience.com",
+      "description": "Like a bowl of spaghetti noodles spilled across the floor of the North Sea, a vast array of hidden tunnel valleys wind and meander across what was once an ice-covered landscape.&#xA0;These valleys are remnants of ancient rivers that once drained water from me…",
+      "url": "https://www.livescience.com/north-sea-ice-age-tunnel-valleys.html",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wtJwXMGsxAhy8ph37Afifb-1200-80.jpg",
+      "publishedAt": "2021-09-10T11:29:00Z",
+      "content": "Scientists discovered this esker (a sedimentary cast of a meltwater channel formed beneath an ice sheet), in a tunnel valley beneath the North Sea floor. The landscape is shown in an image based on h… [+6373 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tierney Sneed, CNN",
+      "title": "The Justice Department's uphill battle against Texas' abortion ban - CNN",
+      "description": "In its lawsuit challenging Texas six-week abortion ban, the Justice Department is throwing a Hail Mary pass to get over the procedural stumbling backs that have thwarted other attempts to block the ban in court.",
+      "url": "https://www.cnn.com/2021/09/10/politics/doj-texas-lawsuit-explainer/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210909153312-merrick-garland-09092021-super-tease.jpg",
+      "publishedAt": "2021-09-10T11:00:00Z",
+      "content": "(CNN)In its lawsuit challenging Texas six-week abortion ban, the Justice Department is throwing a Hail Mary pass to get over the procedural stumbling backs that have thwarted other attempts to block … [+9922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Associated Press",
+      "title": "Facebook, Ray-Ban launch smart glasses — who will wear them? - Fox Business",
+      "description": "Seven years after the ill-fated Google Glass, and five years after Snap rolled out Spectacles, another tech giant is trying its hand at internet-connected smart glasses, hoping that this time around things might be different and people will actually wear them.",
+      "url": "https://www.foxbusiness.com/markets/facebook-ray-ban-launch-smart-glasses",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/09/0/0/ray-ban-facebook.jpg?ve=1&tl=1",
+      "publishedAt": "2021-09-10T10:48:19Z",
+      "content": "Seven years after the ill-fated Google Glass, and five years after Snap rolled out Spectacles, another tech giant is trying its hand at internet-connected smart glasses, hoping that this time around … [+2961 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Donna St. George",
+      "title": "Burn victims of the 9/11 Pentagon attack celebrate a somber anniversary - The Washington Post",
+      "description": "Four severe burn survivors of the Pentagon attack, interviewed by The Washington Post for this story, have each charted a distinct course, holding up against seizing pain, physical limitations and debilitating trauma. They have anguished. They have celebrated…",
+      "url": "https://www.washingtonpost.com/dc-md-va/2021/09/10/pentagon-911-burn-victims-anniversary/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YANSNYQLKQI6ZJ6IMG5XWO7WFA.jpg&w=1440",
+      "publishedAt": "2021-09-10T10:02:34Z",
+      "content": "Just minutes later, at 9:37 a.m., American Airlines Flight 77 barreled into the west side of the Pentagon. One hundred eighty-four people were killed, along with five hijackers. Scores were injured. … [+16861 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Jordain Carney and Aris Folley",
+      "title": "Manchin, Sanders set for clash over Biden spending package | TheHill - The Hill",
+      "description": "Sens. Joe Manchin (D-W.Va.) and Bernie Sanders (I-Vt.) are hurtli...",
+      "url": "https://thehill.com/homenews/senate/571605-manchin-sanders-set-for-clash-over-biden-spending-package",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/manchinjoe_sandersbernie_090921gn_split.jpg",
+      "publishedAt": "2021-09-10T10:00:17Z",
+      "content": "Sens. Joe ManchinJoe ManchinOvernight Energy &amp; Environment Democrats detail clean electricity programOn The Money Biden launches vaccine crackdownMedicare trustees sound alarm, but progressives p… [+9804 chars]"
+    }
+  ]
+}
